@@ -1,8 +1,17 @@
-# Smart-Inventory-Management-System
-Console-based Inventory Management System developed in C++ using Object-Oriented Programming concepts.
 # Smart Inventory Management System
 
 A console-based Inventory Management System developed in C++ using Object-Oriented Programming principles.
+
+## Screenshots
+
+### Login & Main Menu
+![Login Menu](screenshots/login-menu.png)
+
+### Display Products
+![Display Products](screenshots/displayproducts.png)
+
+### Reports
+![Reports](screenshots/report.png)
 
 ## Features
 - User Login System
