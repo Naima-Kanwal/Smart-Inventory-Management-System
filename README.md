@@ -5,13 +5,13 @@ A console-based Inventory Management System developed in C++ using Object-Orient
 ## Screenshots
 
 ### Login & Main Menu
-![Login Menu](screenshots/login-menu.png)
+![Login Menu](./screenshots/login-menu.png)
 
 ### Display Products
-![Display Products](screenshots/displayproducts.png)
+![Display Products](./screenshots/displayproducts.png)
 
 ### Reports
-![Reports](screenshots/report.png)
+![Reports](./screenshots/report.png)
 
 ## Features
 - User Login System
